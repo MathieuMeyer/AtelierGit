@@ -16,6 +16,7 @@ namespace GestionEtudiants.Entities
 
         /// <summary>
         /// Constructeur
+        /// ce truc est genial
         /// </summary>
         public Etudiant(int id, string nom, string prenom, Classe classe, DateTime dateDeNaissance)
         {
